@@ -10,9 +10,9 @@ Previously worked at:
 
 - 🏎️ Tesla: PM for factory and warehousing software, helping scale up car production in California.
 
-- 💘 Tinder: SWE for the "Gen Z" team shipping experimental features like match expiration, games, and more.
+- ❤️ Tinder: SWE for the "Gen Z" team shipping experimental features like match expiration, games, and more.
 
-- ⚡ Lucid Motors: SWE who helped build the online car purchasing experience from scratch.
+- 🐻 Lucid Motors: SWE who helped build the online car purchasing experience from scratch.
 
 <!--
 **tkim90/tkim90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
