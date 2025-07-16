@@ -1,6 +1,6 @@
 Software Engineer based in San Francisco.
 
-Previously co-founder/CTO at [☀️ Spark AI](https://www.sparkhq.ai) (YC W24) building AI software for the energy industry.
+Previously co-founder/CTO at ☀️ Spark AI (YC W24) building AI software for the energy industry.
 
 Writing:
 
