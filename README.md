@@ -14,6 +14,11 @@ Previously worked at:
 
 - 🐻 Lucid Motors: SWE who helped build the online car purchasing experience from scratch.
 
+Socials:
+
+- [X (@taehkimmm)](https://x.com/taehkimmm)
+- [LinkedIn](https://www.linkedin.com/in/taehnkim/)
+
 <!--
 **tkim90/tkim90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
