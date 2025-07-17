@@ -8,6 +8,8 @@ Writing:
 
 Previously worked at:
 
+- ☀️ Spark AI (YC W24): founded an AI company for the energy industry. Scaled to 6 figure ARR and secured 7 figures in funding.
+
 - 🏎️ Tesla: PM for factory and warehousing software, helping scale up car production in California.
 
 - ❤️ Tinder: SWE for the "Gen Z" team shipping experimental features like match expiration, games, and more.
