@@ -8,13 +8,13 @@ Writing:
 
 Previously worked at:
 
-- Spark AI (YC W24): founded an AI company for the energy industry. Scaled to 6 figure ARR and secured 7 figures in funding.
+- **Spark AI** (YC W24): founded an AI company for the energy industry. Scaled to 6 figure ARR and secured 7 figures in funding.
 
-- Tesla: PM for factory software; led the build of its warehousing system from scratch to production, helping Tesla reach its Model 3 7k car/wk build target.
+- **Tesla**: PM for factory software; led the build of its warehousing system from scratch to production, helping Tesla reach its Model 3 7k car/wk build target.
 
-- Tinder: SWE for the "Gen Z" team shipping experimental features like match expiration, games, and more.
+- **Tinder**: SWE for the "Gen Z" team shipping experimental features like match expiration, games, and more.
 
-- Lucid Motors: SWE who helped build the online car purchasing experience from scratch.
+- **Lucid Motors**: SWE who helped build the online car purchasing experience from scratch.
 
 Ask me about...
 
