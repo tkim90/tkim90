@@ -1,4 +1,4 @@
-Hey there, I'm Tae. I'm a software engineer currently exploring RAG, agents in vertical industries, and all things LLMs.
+Hey there, I'm Tae. I'm a software engineer currently exploring RAG, agents in specific industries, and all things LLMs.
 
 Previously co-founder/CTO at ☀️ Spark AI (YC W24) building AI software for the energy industry.
 
