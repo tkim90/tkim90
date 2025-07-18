@@ -1,4 +1,4 @@
-Software Engineer based in San Francisco.
+Software Engineer based in San Francisco, currently exploring RAG, agents in vertical industries, and all things LLMs.
 
 Previously co-founder/CTO at ☀️ Spark AI (YC W24) building AI software for the energy industry.
 
