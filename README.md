@@ -10,11 +10,18 @@ Previously worked at:
 
 - Spark AI (YC W24): founded an AI company for the energy industry. Scaled to 6 figure ARR and secured 7 figures in funding.
 
-- Tesla: PM for factory and warehousing software, helping scale up car production in California.
+- Tesla: PM for factory software; led the build of its warehousing system from scratch to production, helping Tesla reach its Model 3 7k car/wk build target.
 
 - Tinder: SWE for the "Gen Z" team shipping experimental features like match expiration, games, and more.
 
 - Lucid Motors: SWE who helped build the online car purchasing experience from scratch.
+
+Ask me about...
+
+- Experience building RAG systems or data pipelines
+- Living in 5 countries, speaking 5 languages
+- Pastries
+- Starting a YC company
 
 Socials:
 
