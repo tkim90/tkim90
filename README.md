@@ -6,12 +6,6 @@ Writing:
 
 - [Parsing 1 Billion Rows in Bun/Typescript Under 10 Seconds](https://www.taekim.dev/writing/parsing-1b-rows-in-bun)
 
-Ask me about...
-
-- Experience building RAG systems or data pipelines
-- Living in 5 countries, speaking 5 languages
-- Startups
-
 Socials:
 
 - [X (@taehkimmm)](https://x.com/taehkimmm)
